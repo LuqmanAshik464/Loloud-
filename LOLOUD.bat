@@ -124,8 +124,8 @@ goto start
 C:\Users\Administrator\Desktop\MAT\Matrix-effect\Mat.html
 echo pls set the file that downloaded in the dowloads menu if already in the downloads menu
 dowloads menu location 
-%speeh% "pls set the file that downloaded in the dowloads menu if already in the downloads menu
-dowloads menu location." 
+%speeh% "pls set the file that downloaded in the dowloads menu if its already in the downloads menu
+dowloads menu location then type screensaver to exit move your mouse"
 goto start
 
 :date2
@@ -136,13 +136,6 @@ goto start
 :time2
 echo %time%
 Its %time%
-
-
-:start-mat
-screensaver
-goto start
-
-
 
 :restarttwo
 C:\Users\Administrator\Desktop\MAT\ALERT.bat
@@ -260,7 +253,7 @@ echo contact us
 echo restart
 echo Open roblox (to open roblox)
 echo ChromeTime
-echo Matrix (Screensaver)
+screensaver
 echo start MAT (also "screensaver")
 echo.
 echo For more information please read the readme file.
