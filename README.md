@@ -3,9 +3,9 @@ At the moment we are still making the mac version for this .
 
 # How much time this Assistant took me to make it.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iUXAHc-ABoY/0.jpg)](https://www.youtube.com/watch?v=iUXAHc-ABoY)
+[![NUT](https://img.youtube.com/vi/iUXAHc-ABoY/0.jpg)](https://www.youtube.com/watch?v=iUXAHc-ABoY)
 
-6 months. Hope you like it.
+8 months. YES! Hope you like it.
 
 # Installation
 
