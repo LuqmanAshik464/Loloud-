@@ -1,6 +1,9 @@
 # LOLOUD-NEXT-FUTURE-ASSISTANT
 At the moment we are still making the mac version for this .
 
+# How much time this Assistant took me to make it.
+
+6 months. Hope you like it.
 
 # Installation
 
