@@ -1,40 +1,34 @@
-README
+# Foobar
 
-#STEP 1.
+Foobar is a Python library for dealing with word pluralization.
 
-Goto desktop and create a folder called MAT.
+## Installation
 
-#STEP 2.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-Open the MAT folder that you created in STEP 1.
+```bash
+pip install foobar
+```
 
-#STEP 3.
+## Usage
 
-Extract the downloaded files on your desktop.
+```python
+import foobar
 
-#STEP 4.
+# returns 'words'
+foobar.pluralize('word')
 
-Open the extracted folder then select all files then press Ctrl+X.
+# returns 'geese'
+foobar.pluralize('goose')
 
-#STEP 5.
+# returns 'phenomenon'
+foobar.singularize('phenomena')
+```
 
-Go to the "MAT" Folder you created in "STEP 1." then paste the files there. Witout the extracted folder.
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-#STEP 6.
+Please make sure to update tests as appropriate.
 
-Right click LOLOUD.bat and click Open With > Notepad then press Ctrl+H in the first box that says "Find What" type "Administrator" then in the second box that says "Replace With"
-Type your windows account that you are logged into ex:"IRON MAN" (Not email account).
-
-DONE! Have Fun!
-
-##NOTICE: windows defender smartscreen might not let you to run it becuase this batch and html and vbscript file is made from another PC (My one)!
-
-#Conclusion & Credits
-
-Hi im LuqmanAshik and I hope you like my Personal assistant.
-
-#Credits for:
-
-@RaqeebAmeen, And My Self
-
-
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
