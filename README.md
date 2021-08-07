@@ -3,7 +3,7 @@ At the moment we are still making the mac version for this .
 
 # How much time this Assistant took me to make it.
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=iUXAHc-ABoY)
+[![Watch the video](https://www.youtube.com/watch?v=iUXAHc-ABoY)
 
 6 months. Hope you like it.
 
