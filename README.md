@@ -39,4 +39,4 @@ Hi im LuqmanAshik and I hope you like my Personal assistant.
 
 # Credits For:
 
-[RaqeebAmeen]() and [LuqmanAshik464]()
+[@RaqeebAmeen]() and [@LuqmanAshik464]()
