@@ -37,7 +37,6 @@ DONE! Have Fun!
 
 Hi im LuqmanAshik and I hope you like my Personal assistant.
 
-# Credits for:
+# Credits For:
 
-@RaqeebAmeen, And My Self
-
+[RaqeebAmeen]() and [LuqmanAshik464]()
