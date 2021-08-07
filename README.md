@@ -1,7 +1,5 @@
 # LOLOUD-NEXT-FUTURE-ASSISTANT
-Are you a hacker or just a normal guy who like having these staffs. 
-#idk 
-im not forcing
+Are you a hacker or just a normal guy who like having these terminal and stuffs. 
 
 # How much time this Assistant took me to make it.
 
