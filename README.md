@@ -27,7 +27,7 @@ Open the extracted folder then select all files then press Ctrl+X.
 
 ### STEP 5.
 
-Go to the "MAT" Folder you created in "STEP 1." then paste the files there. Witout the extracted folder.
+Go to the "MAT" Folder you created in "STEP 1." then paste the files there. (Witout the extracted folder.)
 
 ### STEP 6.
 
