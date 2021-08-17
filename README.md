@@ -36,7 +36,7 @@ Type your windows account that you are logged into ex:"IRON MAN" (Not email acco
 
 DONE! Have Fun!
 
-### NOTICE: windows defender smartscreen might not let you to run it becuase this batch, html and vbscript so this file is made from another PC (My one)!
+### NOTICE: windows defender smartscreen might not let you to run it becuase these batch, html and vbscript so this file is made from another PC (My one)!
 
 ### Conclusion
 
