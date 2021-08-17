@@ -5,7 +5,7 @@ Are you a hacker or just a normal guy who like having these terminal and stuffs.
 
 [![NUT](https://img.youtube.com/vi/iUXAHc-ABoY/0.jpg)](https://www.youtube.com/watch?v=iUXAHc-ABoY)
 
-8 months. YES! Hope you like it.
+2 weeks months. YES! Hope you like it.
 
 ## Installation
 
