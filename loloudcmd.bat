@@ -1,9 +1,5 @@
 @echo off
 
-echo. this file may cause problems because it is a LOLOUD CORE / LOLOUD POWERSHELL!
-echo. Pls do not mess with it!
-echo. ITS DONE!
-
 echo. Loloud Powershell 2021 release.                                                                                                     
 echo.                                                                                                                                                                                                            
 
