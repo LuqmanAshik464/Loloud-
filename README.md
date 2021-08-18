@@ -3,9 +3,7 @@ Are you a hacker or just a normal guy who like having these terminal and stuffs.
 
 ## How much time this Assistant took me to make it.
 
-[![NUT](https://img.youtube.com/vi/iUXAHc-ABoY/0.jpg)](https://www.youtube.com/watch?v=iUXAHc-ABoY)
-
-2 weeks months. YES! Hope you like it.
+2 weeks.
 
 ## Installation
 
@@ -34,7 +32,8 @@ Go to the "MAT" Folder you created in "STEP 1." then paste the files there. (Wit
 Right click LOLOUD.bat and click Open With > Notepad then press Ctrl+H in the first box that says "Find What" type "Administrator" then in the second box that says "Replace With"
 Type your windows account that you are logged into ex:"IRON MAN" (Not email account).
 
-DONE! Have Fun!
+DONE! 
+### Have Fun!
 
 ### NOTICE: windows defender smartscreen might not let you to run it becuase these batch, html and vbscript so this file is made from another PC (My one)!
 
