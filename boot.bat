@@ -13,11 +13,11 @@
 
 
 
-echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
-echo %random%%random%%random%%random% STARTING LOLOUD... %random%%random%%random%%random%%random%%random%%random%
-echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%
-echo %random%%random%%random%%random%%random%%random%%random%%random%STARTING LOLOUD...%random%%random%%random%%random%
-echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
+echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
+echo %random%%random%%random%%random% STARTING LOLOUD... %random%%random%%random%%random%%random%%random%
+echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
+echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
+echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
 
 
 
