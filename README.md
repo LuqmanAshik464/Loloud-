@@ -1,8 +1,10 @@
 # LOLOUD-NEXT-FUTURE-ASSISTANT
 Are you a hacker or just a normal guy who like having these terminal and stuffs. 
 
-### IMPORTANT
-This DOES NOT SUPPORT WINDOWS 10 ENTERPRISE. 
+### VERY IMPORTANT
+The Future Updates Will Now Be In A Different Place
+Reason: Because Of Copyrighting And We Have Got Our Very First Royal Member 
+[@RaqeebAmeen](https://github.com/RaqeebAmeen)
 
 Note That Windows 11 support will start further notice so be tuned!
 
