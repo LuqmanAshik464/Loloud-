@@ -2,10 +2,7 @@
 Are you a hacker or just a normal guy who like having these terminal and stuffs. 
 
 ### VERY IMPORTANT
-The Future Updates Will Now Be In A Different Place
-Reason: Because Of Copyrighting And We Have Got Our Very First Royal Member 
-[@RaqeebAmeen](https://github.com/RaqeebAmeen)
-
+Pls Dont Copyright
 Note That Windows 11 support will start further notice so be tuned!
 
 ## How much time this Assistant took me to make it.
@@ -13,6 +10,8 @@ Note That Windows 11 support will start further notice so be tuned!
 2 weeks.
 
 ## Installation
+
+Download From [Google Drive]()
 
 ### STEP 1.
 
