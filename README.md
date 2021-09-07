@@ -2,7 +2,8 @@
 Are you a hacker or just a normal guy who like having these terminal and stuffs. 
 
 ### VERY IMPORTANT
-Pls Dont Copyright
+Pls Dont Copyright and
+
 Note That Windows 11 support will start further notice so be tuned!
 
 ## How much time this Assistant took me to make it.
