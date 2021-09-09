@@ -22,11 +22,11 @@ Goto desktop and create a folder called MAT.
 
 ### STEP 2.
 
-Open the MAT folder that you created in STEP 1.
+Open the MAT folder that you created in STEP 1 (Just To Confirm).
 
 ### STEP 3.
 
-Extract the downloaded files on your desktop.
+move the files to the MAT folder You Created.
 
 ### STEP 4.
 
@@ -38,7 +38,7 @@ Go to the "MAT" Folder you created in "STEP 1." then paste the files there. (Wit
 
 ### STEP 6.
 
-Right click LOLOUD.bat and click Open With > Notepad then press Ctrl+H in the first box that says "Find What" type "Administrator" then in the second box that says "Replace With"
+Right click LOLOUD.bat and click Open With > Notepad then press Ctrl+H in the first box that says "Find What" type "Eniacs-Luqman" then in the second box that says "Replace With"
 Type your windows account that you are logged into ex: [Click Me](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dummies.com%2Fcomputers%2Foperating-systems%2Fwindows-10%2Fhow-to-sign-in-to-windows-10%2F&psig=AOvVaw3Gx5qzl9lcr1a46x35zaC2&ust=1629359848996000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLD38cKMuvICFQAAAAAdAAAAABAD)
 
 DONE! 
