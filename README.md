@@ -14,7 +14,9 @@ Note That Windows 11 support will start further notice so be tuned!
 
 Download From [Google Drive](https://drive.google.com/drive/folders/1xks7vJT7L546R5l2U7_qxVRecwZDVl1d?usp=sharing) Or From This Page
 
-Right click on MAT>Download
+If Your Downloading On Google Drive Right click on MAT>Download
+
+### Once You Downloaded
 
 ### STEP 1.
 
