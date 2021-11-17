@@ -19,6 +19,20 @@ If Your Downloading On Google Drive Right click on MAT>Download
 
 ### Once You Downloaded
 
+## Using Google Drive (Discountinued Please Download Using Github For The Latest Updates.)
+
+### Step 1
+Right Click The Folder Named MAT Then Click Download
+
+### Step 2 
+Move The Folder Named MAT To Your Desktop.
+
+### Step 3 
+Run LOLOUD.bat
+
+## Done!
+
+## Using Github (Recommended)
 ### Step 1
 Download The Code
 
