@@ -56,4 +56,4 @@ Hi im LuqmanAshik and I hope you like my Personal assistant.
 
 [@RaqeebAmeen](https://github.com/RaqeebAmeen)
 
-No Copyright(s) Loloud TM 2021  
+Created By Loloud™️
