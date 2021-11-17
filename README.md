@@ -19,39 +19,28 @@ If Your Downloading On Google Drive Right click on MAT>Download
 
 ### Once You Downloaded
 
-### STEP 1.
+### Step 1
+Download The Code
 
-Goto desktop and create a folder called MAT.
+### Step 2
+Move The Folder In It Named MAT To The Desktop
 
-### STEP 2.
+### Step 3 
+Open The Folder
 
-Open the MAT folder that you created in STEP 1 (Just To Confirm).
-
-### STEP 3.
-
-move the files to the MAT folder You Created.
-
-### STEP 4.
-
-Open the extracted folder then select all files then press Ctrl+X.
-
-### STEP 5.
-
-Go to the "MAT" Folder you created in "STEP 1." then paste the files there. (Witout the extracted folder.)
-
-### STEP 6.
-
-Right click LOLOUD.bat and click Open With > Notepad then press Ctrl+H in the first box that says "Find What" type "Eniacs-Luqman" then in the second box that says "Replace With"
+### Step 4
+Right click LOLOUD.bat and click Open With > Notepad then press Ctrl+H in the first box that says "Find What" type "email" then in the second box that says "Replace With"
 Type your windows account that you are logged into ex: [Click Me](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dummies.com%2Fcomputers%2Foperating-systems%2Fwindows-10%2Fhow-to-sign-in-to-windows-10%2F&psig=AOvVaw3Gx5qzl9lcr1a46x35zaC2&ust=1629359848996000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLD38cKMuvICFQAAAAAdAAAAABAD)
 
-DONE! 
+## DONE! 
 ### Have Fun!
 
-### NOTICE: windows defender smartscreen might not let you to run it becuase these batch, html and vbscript so this file is made from another PC (My one)!
+### NOTICE: windows defender smartscreen might not let you to run it becuase these batch, html and vbscript are made from another PC (My one)!
 
 ### Conclusion
 
 Hi I'm LuqmanAshik and I hope you like my Personal assistant.
+I Don't Care My Grammer Or Spellings Are Bad Because This Is Not School :)
 
 ### Credits For:
 
