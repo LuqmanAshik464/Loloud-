@@ -1,10 +1,11 @@
 # LOLOUD-NEXT-FUTURE-ASSISTANT
 Are you a hacker or just a normal guy who like having these terminal and stuffs. 
 
-### VERY IMPORTANT
-Pls Dont Copyright and
+### Note
+Windows Supports The Assistant Feel Free To Use It!
 
-Note That Windows 11 support will start further notice so be tuned!
+## Determinations
+We Will Now Delete All 3rd-Party Software Away From Your PC Due To Suspections Of Virus's
 
 ## How much time this Assistant took me to make it.
 
@@ -50,7 +51,7 @@ DONE!
 
 ### Conclusion
 
-Hi im LuqmanAshik and I hope you like my Personal assistant.
+Hi I'm LuqmanAshik and I hope you like my Personal assistant.
 
 ### Credits For:
 
