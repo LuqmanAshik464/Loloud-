@@ -1,5 +1,8 @@
 # LOLOUD-NEXT-FUTURE-ASSISTANT
-Are you a hacker or just a normal guy who like having these terminal and stuffs. 
+Idk Why I Made This XD. 
+
+## Please Read
+The Download Is Complicated Please I Beg You Don't Do This Witout Knowing.
 
 ### Note
 Windows Supports The Assistant Feel Free To Use It!
@@ -49,7 +52,7 @@ Type your windows account that you are logged into ex: [Click Me](https://www.go
 ## DONE! 
 ### Have Fun!
 
-### NOTICE: windows defender smartscreen might not let you to run it becuase these batch, html and vbscript are made from another PC (My one)!
+### NOTICE: windows defender smartscreen might not let you to run it becuase these batch, html and vbscript are made from another PC (My one)! Also We Removed All The Hacking Stuff To Get Rid Of Your Suspections ALSO If You Don't Belive Us Read The Code
 
 ### Conclusion
 
