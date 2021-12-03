@@ -5,7 +5,7 @@ Idk Why I Made This XD.
 The Download Is Complicated Please I Beg You Don't Do This Witout Knowing.
 
 ### Note
-Windows Supports The Assistant Feel Free To Use It!
+Windows 11 Supports The Assistant Feel Free To Use It!
 
 ## Determinations
 We Will Now Delete All 3rd-Party Software Away From Your PC Due To Suspections Of Virus's
