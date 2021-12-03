@@ -1,4 +1,4 @@
-# LOLOUD-NEXT-FUTURE-ASSISTANT
+# LOLOUD
 Idk Why I Made This XD. 
 
 ## Please Read
